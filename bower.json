@@ -1,0 +1,9 @@
+{
+  "name": "tw-challenges-1",
+  "version": "0.0.1",
+  "description": "tw-challenges-01",
+  "dependencies": {
+    "bootstrap": "~3",
+    "fontawesome": "4.1.0"
+  }
+}
